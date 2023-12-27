@@ -1,0 +1,11 @@
+com\vindhuja\testRunner\GetCategoriesTestRunner.class
+com\vindhuja\testRunner\CreateCategoriesTestRunner.class
+com\vindhuja\testRunner\GetServicesTestRunner.class
+com\vindhuja\testRunner\CreateProductsTestRunner.class
+com\vindhuja\testRunner\GetProductTestRunner.class
+com\vindhuja\testRunner\UpdateProductTestRunner.class
+com\vindhuja\testRunner\GetHealthcheckTestRunner.class
+com\vindhuja\testRunner\CreateStoresTestRunner.class
+com\vindhuja\testRunner\GetStoresTestRunner.class
+com\vindhuja\testRunner\GetVersionTestRunner.class
+com\vindhuja\testRunner\CreateServicesTestRunner.class

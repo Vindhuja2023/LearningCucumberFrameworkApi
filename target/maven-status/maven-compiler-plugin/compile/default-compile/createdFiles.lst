@@ -1,0 +1,12 @@
+com\stepDefinition\CategoriesStepDefinition.class
+com\base\BaseTest.class
+com\stepDefinition\CommonStepDefinition.class
+pojoClasses\CreateServicesPojo.class
+com\base\Hooks.class
+com\stepDefinition\StoresStepDefinition.class
+com\stepDefinition\ProductStepDefinition.class
+pojoClasses\CreateStorePojo.class
+com\utils\TestContext.class
+pojoClasses\CreateProductsPojo.class
+com\stepDefinition\ServicesStepDefinition.class
+pojoClasses\CreateCategoriesPojo.class
